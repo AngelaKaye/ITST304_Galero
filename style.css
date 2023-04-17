@@ -37,7 +37,7 @@ body {
   font-size: 3rem;
 }
 
-.s1 {
+.section1 {
   color: white;
   text-shadow: 2px 2px #272727;
   background-image: url(../images/bg1.jpg);
@@ -45,7 +45,7 @@ body {
   background-position: center;
 }
 
-.s2 {
+.section2 {
   color: white;
   text-shadow: 2px 2px #272727;
   background-image: url(../images/bg2.png);
@@ -53,7 +53,7 @@ body {
   background-position: center;
 }
 
-.s3 {
+.section3 {
   color: white;
   text-shadow: 2px 2px #272727;
   background-image: url(../images/bg3.jpg);
